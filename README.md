@@ -5,7 +5,11 @@ End-to-end UI test automation for [SauceDemo](https://www.saucedemo.com), a demo
 The suite covers login, product sorting, the cart and the full checkout flow, and runs in **Chromium, Firefox and WebKit** on every push through GitHub Actions.
 
 
-https://github.com/user-attachments/assets/eec364b0-2760-426d-a1a8-e5637f7dfee9
+
+https://github.com/user-attachments/assets/1b98855c-a51b-4c13-ae48-4ca6c3ca9271
+
+
+
 
 
 ## Tech stack
